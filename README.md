@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=twty%205175&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+<!-- 
+# web developer -->
 
-<!--
-**twty5175/twty5175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## _skill_
+<!-- Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧡 HTML5, CSS, javascript <br>
+🧡 Python, PHP, MySQL
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twty5175&layout=compact)](https://github.com/twty5175/github-readme-stats)
